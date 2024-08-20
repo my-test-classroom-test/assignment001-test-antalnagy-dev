@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE9BAA3-EE70-4382-A7E7-8BA60F96B021}|..\\StarterProject.Test\\StarterProject.Test.csproj|c:\\users\\xy\\desktop\\git_tmp\\csharp-starter-project\\starterproject.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093E6528-D686-420F-86BD-76C5695E56BA}|StarterProject.csproj|c:\\users\\xy\\desktop\\git_tmp\\csharp-starter-project\\starterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E6528-D686-420F-86BD-76C5695E56BA}|StarterProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\StarterProject.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\StarterProject.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:31:29.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:30:14.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "tests": [
+      {
+        "name": "Test Addition",
+        "setup": "dotnet restore && dotnet build",
+        "run": "dotnet test --filter FullyQualifiedName~ProjectName.Tests.UnitTest1.Test1",
+        "input": "",
+        "output": "",
+        "timeout": 10,
+        "points": 5
+      }
+    ]
+  }
+  
