@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject\\",
+  "WorkspaceRootPath": "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAE9BAA3-EE70-4382-A7E7-8BA60F96B021}|..\\StarterProject.Test\\StarterProject.Test.csproj|c:\\users\\xy\\desktop\\git_tmp\\csharp-starter-project\\starterproject.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{093E6528-D686-420F-86BD-76C5695E56BA}|StarterProject.csproj|c:\\users\\xy\\desktop\\test\\assignment001-test-antalnagy-dev\\starterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093E6528-D686-420F-86BD-76C5695E56BA}|StarterProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{093E6528-D686-420F-86BD-76C5695E56BA}|StarterProject.csproj|c:\\users\\xy\\desktop\\git_tmp\\csharp-starter-project\\starterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093E6528-D686-420F-86BD-76C5695E56BA}|StarterProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,16 +17,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\StarterProject.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs",
-              "RelativeToolTip": "..\\StarterProject.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T13:31:29.025Z",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject\\Program.cs",
+              "ToolTip": "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T13:30:14.873Z",
               "EditorCaption": ""

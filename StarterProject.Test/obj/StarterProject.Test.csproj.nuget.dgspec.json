@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\StarterProject.Test.csproj": {}
+    "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject.Test\\StarterProject.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\StarterProject.Test.csproj": {
+    "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject.Test\\StarterProject.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\StarterProject.Test.csproj",
+        "projectUniqueName": "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject.Test\\StarterProject.Test.csproj",
         "projectName": "StarterProject.Test",
-        "projectPath": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\StarterProject.Test.csproj",
+        "projectPath": "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject.Test\\StarterProject.Test.csproj",
         "packagesPath": "C:\\Users\\xy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xy\\Desktop\\GIT_TMP\\CSharp-Starter-Project\\StarterProject.Test\\obj\\",
+        "outputPath": "C:\\Users\\xy\\Desktop\\TEST\\assignment001-test-antalnagy-dev\\StarterProject.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xy\\AppData\\Roaming\\NuGet\\NuGet.Config",
